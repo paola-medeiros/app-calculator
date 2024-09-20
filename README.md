@@ -1,4 +1,5 @@
 <h4>The Screen Project:<h4/>
 
-![image](https://github.com/user-attachments/assets/aa2de8d3-15b5-42d3-9b31-591ece7e8d11)
+![Gravação de Tela 2024-09-20 133114](https://github.com/user-attachments/assets/fa5c5aba-d8d4-40f5-a383-23bcac7d2e36)
+
 
